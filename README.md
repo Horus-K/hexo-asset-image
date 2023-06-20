@@ -12,7 +12,7 @@ Give asset image in hexo a absolutely path automatically
 # Usege
 
 ```shell
-npm install hexo-asset-image --save
+npm install https://github.com/Horus-K/hexo-asset-image --save
 ```
 
 # Example
